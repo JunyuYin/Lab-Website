@@ -31,10 +31,26 @@ sections:
         Research Lab
       image:
         filename: homepage.jpg
-        position: left
+        image_position: left
       text: |
         <br>
         <small>The LUMiNA Research Lab, established in 2025, focuses on advancing the understanding of mental disorders through the integration of machine learning, neuroimaging, and computational modeling. Our goal is to uncover the neural and behavioral mechanisms underlying psychopathology and to promote data-driven approaches in mental health research.</small>
+
+  - block: markdown
+    content:
+      title: |
+        GAO Mengxia
+      text: |
+        <div class="row align-items-center">
+          <div class="col-md-6">
+            <img src="homepage.jpg" alt="GAO Mengxia" class="w-100">
+          </div>
+          <div class="col-md-6">
+            <small>Dr. Mengxia Gao is an Assistant Professor at The Chinese University of Hong Kong, Shenzhen, with a joint appointment in the Division of Computational Social Science and Applied Psychology. Before joining CUHK Shenzhen, she worked as a Senior Research Fellow at Monash University.</small>
+          </div>
+        </div>
+    design:
+      columns: '1'
     
   - block: collection
     content:
