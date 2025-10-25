@@ -56,13 +56,11 @@ sections:
     content:
       title: Featured Publications
       text: |
-        <br>
         {{% cta cta_link="./publication/" cta_text="See More Publications →" %}}
       count: 5
       filters:
         folders:
           - publication
-        featured_only: true
     design:
       view: citation
       columns: '1'
