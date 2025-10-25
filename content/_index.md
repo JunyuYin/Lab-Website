@@ -4,38 +4,33 @@ title:
 date: 2022-10-24
 type: landing
 
+---
+title: My Page
+type: landing
+
 sections:
-  - block: hero-cta
+  - block: hero
     content:
-      title: Lab in CUHKSZ
-      text: Machine Learning fMRI Mental Disorders
+      title: "Welcome to My Website"
+      text: "Build amazing websites with Hugo Blox - no coding required!"
       primary_action:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+        text: "Get Started"
+        url: "https://example.com"
+        icon: "sparkles"
       secondary_action:
-        text: Read the docs
-        url: https://docs.hugoblox.com
+        text: "Learn More"
+        url: "https://docs.hugoblox.com"
       announcement:
-        text: "Announcing the release of version 1."
+        text: "🎉 New features available now!"
         link:
           text: "Read more"
-          url: "/People/"
+          url: "https://example.com/news"
     design:
-    #   spacing:
-    #     padding: [0, 0, 0, 0]
-    #     margin: [0, 0, 0, 0]
-      # For full-screen, add `min-h-screen` below
-      css_class: "dark min-h-screen"
       background:
-        color: "navy"
-        image:
-          # Add your image background to `assets/media/`.
-          filename: homepage.jpg
-          filters:
-            brightness: 0.5
-          size: cover
-          position: center
-          parallax: false
+        color: ""
+        gradient_start: "#4f46e5"
+        gradient_end: "#7c3aed"
+        text_color_light: true
   - block: collection
     content:
       title: Latest News
