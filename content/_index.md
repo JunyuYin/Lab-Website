@@ -24,6 +24,17 @@ sections:
         padding: ['10px', '0', '10px', '0']
       css_class: fullscreen-hero
 
+  - block: hero
+    content:
+      title: |
+        LUMiNA
+        Research Lab
+      image:
+        filename: homepage.jpg
+      text: |
+        <br>
+        The LUMiNA Research Lab, established in 2025, focuses on advancing the understanding of mental disorders through the integration of machine learning, neuroimaging, and computational modeling. Our goal is to uncover the neural and behavioral mechanisms underlying psychopathology and to promote data-driven approaches in mental health research.
+    
   - block: collection
     content:
       title: Latest Preprints
