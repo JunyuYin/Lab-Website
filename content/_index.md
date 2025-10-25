@@ -10,7 +10,7 @@ sections:
       title: LUMINA Lab
       text: LLM, Mental Disorders, Brain Imaging, Aging, Machine Learning
     design:
-      css_class: "dark min-h-screen"
+      css_class: "dark h-screen flex items-center justify-center text-center"
       background:
         color: "navy"
         image:
