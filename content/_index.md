@@ -12,24 +12,14 @@ sections:
   - block: hero
     content:
       title: |
-        LUMiNA Lab
+        LUMiNA
+        Research Lab
       image:
         filename: homepage.jpg
       text: |
         <br>
-        The **LUMiNA Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-    design:
-      css_class: "min-h-screen flex items-center justify-center text-center"
-      background:
-        image:
-          filename: homepage.jpg
-          size: cover          
-          position: center    
-          filters:
-            brightness: 0.5   
-          parallax: true       
-        text_color_light: true   
-  
+        
+        The **LUMiNA Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   - block: markdown
     content:
       title:
