@@ -4,10 +4,6 @@ title:
 date: 2022-10-24
 type: landing
 
----
-title: My Page
-type: landing
-
 sections:
   - block: hero
     content:
@@ -20,6 +16,8 @@ sections:
         <br>
         
         The **LUMiNA Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+    design:
+      css_class: "min-h-screen flex items-center justify-center text-center"
   - block: markdown
     content:
       title:
