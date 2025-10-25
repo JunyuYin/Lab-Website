@@ -56,7 +56,7 @@ sections:
     content:
       title: Featured Publications
       text: |
-        {{% cta cta_link="./publications/" cta_text="See More Publications →" %}}
+        {{% cta cta_link="./publication/" cta_text="See More Publications →" %}}
       count: 5
       filters:
         folders:
