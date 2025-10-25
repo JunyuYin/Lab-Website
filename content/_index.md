@@ -10,10 +10,15 @@ sections:
       title: LUMINA Lab
       text: LLM, Mental Disorders, Brain Imaging, Aging, Machine Learning
     design:
-      css_class: "dark h-screen flex items-center justify-center text-center"
+    #   spacing:
+    #     padding: [0, 0, 0, 0]
+    #     margin: [0, 0, 0, 0]
+      # For full-screen, add `min-h-screen` below
+      css_class: "dark min-h-screen flex items-center justify-center text-center"
       background:
         color: "navy"
         image:
+          # Add your image background to `assets/media/`.
           filename: homepageBG.jpg
           filters:
             brightness: 0.5
