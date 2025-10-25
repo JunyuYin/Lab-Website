@@ -7,3 +7,43 @@
 .cta-group {
   justify-content: center;
 }
+// Make page header alignment consistent with widget page header alignment
+.universal-wrapper h1 {
+  text-align: center;
+}
+
+// Center the CTA shortcode button
+.cta-group {
+  justify-content: center;
+}
+
+/* === 新增：全屏英雄区块样式 === */
+.fullscreen-hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white !important;
+  position: relative;
+}
+
+/* 确保所有文字元素都是白色 */
+.fullscreen-hero h1,
+.fullscreen-hero h2,
+.fullscreen-hero h3,
+.fullscreen-hero p,
+.fullscreen-hero .block-title,
+.fullscreen-hero .block-subtitle,
+.fullscreen-hero .block-content {
+  color: white !important;
+  text-shadow: 0 2px 4px rgba(0,0,0,0.5); /* 添加文字阴影增强可读性 */
+}
+
+/* 确保背景图片正确显示 */
+.fullscreen-hero .block-background {
+  background-size: cover !important;
+  background-position: center !important;
+  background-attachment: scroll !important;
+}
