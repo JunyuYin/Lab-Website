@@ -54,13 +54,14 @@ sections:
     
   - block: collection
     content:
-      title: Latest Preprints
-      text: ""
+      title: Featured Publications
+      text: |
+        {{% cta cta_link="./publications/" cta_text="See More Publications →" %}}
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        featured_only: true
     design:
       view: citation
       columns: '1'
