@@ -20,14 +20,14 @@ sections:
       css_class: fullscreen
   - block: markdown
     content:
-      title:
+      title: LUMiNA Research Group
       subtitle: ''
-      text:
+      text: CUHKSZ
     design:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: homepage.jpg
           filters:
             brightness: 1
           parallax: false
