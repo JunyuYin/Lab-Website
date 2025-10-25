@@ -44,7 +44,7 @@ social:
     link: 'mailto:boyazhang@link.cuhk.edu.cn'
   # - icon: globe
   #   icon_pack: fas
-  #   link: 'https://yourpersonalwebsite.com'   # 
+  #   link: 'https://yourpersonalwebsite.com' 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'boyazhang@link.cuhk.edu.cn'
