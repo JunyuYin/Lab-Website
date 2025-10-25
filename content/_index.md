@@ -5,19 +5,6 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: |
-        LUMiNA
-        Research Lab
-      image:
-        filename: homepage.jpg
-      text: |
-        <br>
-        
-        The **LUMiNA Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
-    design:
-      css_class: fullscreen
   - block: markdown
     content:
       title: LUMiNA Research Group
@@ -33,10 +20,9 @@ sections:
           parallax: true
           position: center
           size: cover
-          text_color_light: true
       spacing:
         padding: ['10px', '0', '10px', '0']
-      css_class: fullscreen
+      css_class: fullscreen-hero
 
   - block: collection
     content:
