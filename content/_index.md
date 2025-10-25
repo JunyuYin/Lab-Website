@@ -9,6 +9,8 @@ sections:
     content:
       title: LUMINA Lab
       text: LLM, Mental Disorders, Brain Imaging, Aging, Machine Learning
+
+
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
@@ -19,7 +21,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: homepageBG.jpg
+          filename: homepageBG.svg
           filters:
             brightness: 0.5
           size: cover
