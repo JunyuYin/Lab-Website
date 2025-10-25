@@ -7,15 +7,19 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      title: LUMINA Lab
+      text: LLM, Mental Disorders, Brain Imaging, Aging, Machine Learning
+    design:
+      css_class: "dark min-h-screen"
+      background:
+        color: "navy"
+        image:
+          filename: homepageBG.jpg
+          filters:
+            brightness: 0.5
+          size: cover
+          position: center
+          parallax: false
   
   - block: collection
     content:
