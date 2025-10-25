@@ -38,12 +38,10 @@ sections:
 
   - block: markdown
     content:
-      title: |
-        GAO Mengxia
       text: |
         <div class="row align-items-center">
           <div class="col-md-6">
-            <img src="homepage.jpg" alt="GAO Mengxia" class="w-100">
+            <img src="ProfGao.jpg" alt="GAO Mengxia" class="w-100">
           </div>
           <div class="col-md-6">
             <small>Dr. Mengxia Gao is an Assistant Professor at The Chinese University of Hong Kong, Shenzhen, with a joint appointment in the Division of Computational Social Science and Applied Psychology. Before joining CUHK Shenzhen, she worked as a Senior Research Fellow at Monash University.</small>
