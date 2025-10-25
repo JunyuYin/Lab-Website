@@ -24,19 +24,19 @@ sections:
       subtitle: ''
       text: CUHKSZ
     design:
-      columns: '2'
+      columns: '1'
       background:
         image: 
           filename: homepage.jpg
           filters:
-            brightness: 0.5
+            brightness: 0.6
           parallax: true
           position: center
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: "min-h-screen flex flex-col items-center justify-center text-center text-white"
+        padding: ['10px', '0', '10px', '0']
+      css_class: fullscreen
 
   - block: collection
     content:
