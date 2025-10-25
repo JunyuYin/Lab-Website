@@ -11,44 +11,24 @@ type: landing
 sections:
   - block: hero
     content:
-      title: "Welcome to My Website"
-      text: "Build amazing websites with Hugo Blox - no coding required!"
-      primary_action:
-        text: "Get Started"
-        url: "https://example.com"
-        icon: "sparkles"
-      secondary_action:
-        text: "Learn More"
-        url: "https://docs.hugoblox.com"
-      announcement:
-        text: "🎉 New features available now!"
-        link:
-          text: "Read more"
-          url: "https://example.com/news"
+      title: |
+        LUMiNA Lab
+      image:
+        filename: homepage.jpg
+      text: |
+        <br>
+        The **LUMiNA Lab** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
     design:
-  background:
-    color: ""
-    gradient_start: "#3b82f6"
-    gradient_end: "#06b6d4"
-    text_color_light: false
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
+      css_class: "min-h-screen flex items-center justify-center text-center"
+      background:
+        image:
+          filename: homepage.jpg
+          size: cover          
+          position: center    
+          filters:
+            brightness: 0.5   
+          parallax: true       
+        text_color_light: true   
   
   - block: markdown
     content:
