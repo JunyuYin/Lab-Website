@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: hero-cta
     content:
       title: Lab in CUHKSZ
       text: Machine Learning fMRI Mental Disorders
