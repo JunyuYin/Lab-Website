@@ -65,15 +65,6 @@ sections:
       view: citation
       columns: '1'
 
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
-    design:
-      columns: '1'
-
   - block: slider
     content:
       slides:
@@ -108,10 +99,10 @@ sections:
           position: center
           color: '#333'
         link:
-          icon: graduation-cap
+          icon: users
           icon_pack: fas
-          text: Join Us
-          url: ../contact/
+          text: Meet the Team
+          url: ../people/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''
