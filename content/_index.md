@@ -26,11 +26,11 @@ sections:
           text: "Read more"
           url: "https://example.com/news"
     design:
-      background:
-        color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
-        text_color_light: true
+  background:
+    color: ""
+    gradient_start: "#3b82f6"
+    gradient_end: "#06b6d4"
+    text_color_light: false
   - block: collection
     content:
       title: Latest News
