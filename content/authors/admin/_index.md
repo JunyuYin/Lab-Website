@@ -1,77 +1,63 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: GAO Mengxia
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Mengxia
+last_name: Gao
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: The Chinese University of Hong Kong, Shenzhen
+    url: "https://www.cuhk.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Dr. Mengxia Gao is an Assistant Professor at CUHK-Shenzhen, with a joint appointment in the Division of Computational Social Science and Applied Psychology. Her research focuses on depression, mental disorders, aging, brain-imaging (fMRI), cognitive neuroscience, and machine learning.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Depression
+  - Mental Disorders
+  - Aging
+  - Brain Imaging (fMRI)
+  - Cognitive Neuroscience
+  - Machine Learning
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Ph.D.
+      institution: The University of Hong Kong
+      year: ""
+    - course: M.E.
+      institution: South China Normal University
+      year: ""
+    - course: B.S.
+      institution: South China Normal University
+      year: ""
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+    link: "mailto:mengxiagao@cuhk.edu.cn"
+  - icon: link
+    icon_pack: fas
+    link: "https://myweb.cuhk.edu.cn/mengxiagao"
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: "mengxiagao@cuhk.edu.cn"
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Dr. Mengxia Gao is an Assistant Professor at The Chinese University of Hong Kong, Shenzhen, with a joint appointment in the Division of Computational Social Science and Applied Psychology. Before joining CUHK Shenzhen, she worked as a Senior Research Fellow at Monash University.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Dr. Gao holds a Ph.D. in Cognitive Neuroscience from The University of Hong Kong, where she was awarded the prestigious Hong Kong Research Grants Council Postdoctoral Fellowship. Her research focuses on utilizing multimodal behavioral and brain-imaging data, along with machine-learning techniques, to predict cognitive and affective functions in aging and clinical populations. With 20 publications in international journals including Nature Mental Health, Neuron, Molecular Psychiatry, Psychological Medicine, Communications Medicine, NeuroImage, and Brain Communications, her work bridges psychology, neuroscience, and computational methods. Beyond research, Dr. Gao is an active contributor to the scientific community. She has served as Chair of the Student and Postdoc Special Interest Group at the Organization for Human Brain Mapping (OHBM) and as a reviewer for esteemed journals such as Nature Mental Health, Neuroscience & Biobehavioral Reviews, Neuropsychopharmacology, and Translational Psychiatry.
