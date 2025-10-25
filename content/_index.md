@@ -7,8 +7,8 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Lab
-      text: CUHKSZ
+      title: Lab in CUHKSZ
+      text: Machine Learning fMRI Mental Disorders
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -16,7 +16,7 @@ sections:
         text: Read the docs
         url: https://docs.hugoblox.com
       announcement:
-        text: meet our team
+        text: "Announcing the release of version 1."
         link:
           text: "Read more"
           url: "/People/"
@@ -25,18 +25,17 @@ sections:
     #     padding: [0, 0, 0, 0]
     #     margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark"
+      css_class: "dark min-h-screen"
       background:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: homepageBG.jpg
+          filename: homepage.jpg
           filters:
             brightness: 0.5
           size: cover
           position: center
           parallax: false
-  
   - block: collection
     content:
       title: Latest News
