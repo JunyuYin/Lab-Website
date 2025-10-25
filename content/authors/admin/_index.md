@@ -55,7 +55,7 @@ highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Researchers
+  - Principal Investigator
 ---
 
 Dr. Mengxia Gao is an Assistant Professor at The Chinese University of Hong Kong, Shenzhen, with a joint appointment in the Division of Computational Social Science and Applied Psychology. Before joining CUHK Shenzhen, she worked as a Senior Research Fellow at Monash University.
