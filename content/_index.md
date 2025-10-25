@@ -7,21 +7,30 @@ type: landing
 sections:
   - block: hero
     content:
-      title: LUMINA Lab
-      text: LLM, Mental Disorders, Brain Imaging, Aging, Machine Learning
-
-
+      title: Lab
+      text: CUHKSZ
+      primary_action:
+        text: Get Started
+        url: https://hugoblox.com/templates/
+      secondary_action:
+        text: Read the docs
+        url: https://docs.hugoblox.com
+      announcement:
+        text: meet our team
+        link:
+          text: "Read more"
+          url: "/People/"
     design:
     #   spacing:
     #     padding: [0, 0, 0, 0]
     #     margin: [0, 0, 0, 0]
       # For full-screen, add `min-h-screen` below
-      css_class: "dark min-h-screen flex items-center justify-center text-center"
+      css_class: "dark"
       background:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: homepageBG.svg
+          filename: homepageBG.jpg
           filters:
             brightness: 0.5
           size: cover
