@@ -39,7 +39,7 @@ sections:
   - block: hero
     content:
       image:
-        filename: ProfGao.jpg
+        filename: admin.jpg
         image_position: left
       text: |
         <br>
