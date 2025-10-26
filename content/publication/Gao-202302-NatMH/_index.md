@@ -16,7 +16,7 @@ date: "2023-02-17T00:00:00Z"
 doi: "10.1038/s44220-022-00007-7"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-02-17T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -37,6 +37,7 @@ summary: Brain connectivity patterns from fMRI and DTI data can predict suicide 
 tags:
 - Source Themes
 featured: true
+draft: false
 
 # links:
 # - name: ""
