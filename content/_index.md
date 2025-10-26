@@ -57,14 +57,10 @@ sections:
           - publication
         featured_only: true
         publication_type: 'article-journal'
+      text: "{{% cta cta_link='./publication/' cta_text='See More Publications →' %}}"
     design:
       view: citation
       columns: '1'
-    link:
-      icon: users
-      icon_pack: fas
-      text: "See More Publications"
-      url: "../publication/"
   
   - block: slider
     content:
