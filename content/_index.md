@@ -61,10 +61,10 @@ sections:
       view: citation
       columns: '1'
     link:
-     icon: users
-     icon_pack: fas
-     text: See More Publications
-     url: ../publication/
+      icon: users
+      icon_pack: fas
+      text: "See More Publications"
+      url: "../publication/"
   
   - block: slider
     content:
