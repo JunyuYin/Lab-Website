@@ -55,8 +55,10 @@
 .collection-bottom-cta {
   display: flex;
   flex-direction: column;
+  min-height: 600px; /* 重要：设置最小高度 */
 }
 
-.collection-bottom-cta .blox-cta {
-  margin-top: auto;  /* 把按钮推到底部 */
+.collection-bottom-cta .blox-text {
+  margin-top: auto; /* 这会自动推到最底部 */
+  text-align: center; /* 水平居中 */
 }
