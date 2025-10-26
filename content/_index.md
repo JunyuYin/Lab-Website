@@ -60,9 +60,11 @@ sections:
     design:
       view: citation
       columns: '1'
-    cta:
-      link: "./publication/"
-      text: "See More Publications →"
+    link:
+     icon: users
+     icon_pack: fas
+     text: See More Publications
+     url: ../publication/
   
   - block: slider
     content:
