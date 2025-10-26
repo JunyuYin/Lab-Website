@@ -57,7 +57,8 @@ sections:
           - publication
         featured_only: true
         publication_type: 'article-journal'
-      text: "{{% cta cta_link='./publication/' cta_text='See More Publications →' %}}"
+      text: |
+        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
     design:
       view: citation
       columns: '1'
