@@ -53,8 +53,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ""
+  caption: 'Image credit: [**Unsplash**](https://www.nature.com/articles/s44220-022-00007-7)'
+  focal_point: "center"
   preview_only: false
 
 # Associated Projects (optional).
