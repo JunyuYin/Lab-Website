@@ -31,7 +31,6 @@ abstract: This study employed multimodal connectome-based predictive modeling to
 
 
 # Summary. An optional shortened abstract.
-summary: An optional shortened abstract.
 summary: Brain connectivity patterns from fMRI and DTI data can predict suicide risk in late-life depression with improved accuracy over behavioral assessments alone.
 
 tags:
