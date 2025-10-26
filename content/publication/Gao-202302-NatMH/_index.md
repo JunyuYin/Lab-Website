@@ -72,12 +72,7 @@ projects: []
 slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+## Abstract
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+This study employed multimodal connectome-based predictive modeling to predict suicide risk in patients with late-life depression. Using both resting-state functional connectivity and white matter structural connectivity, the authors identified brain network patterns that predicted suicide risk with up to 30% explained variance. These multimodal brain features improved classification accuracy beyond standard questionnaire measures and were validated across two independent datasets. The findings highlight the potential of brain connectivity as biomarkers for suicide risk screening and clinical intervention in late-life depression.
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
