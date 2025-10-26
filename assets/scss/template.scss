@@ -51,3 +51,12 @@
 .hero-image-left .hero-media {
   order: -1;  /* 图片放到左边 */
 }
+
+.collection-bottom-cta {
+  display: flex;
+  flex-direction: column;
+}
+
+.collection-bottom-cta .blox-cta {
+  margin-top: auto;  /* 把按钮推到底部 */
+}
