@@ -55,8 +55,8 @@ sections:
         {{% cta cta_link="./publication/" cta_text="See More Publications →" %}}
       count: 5
       filters:
-        folders:
-          - publication
+        tags:
+          - Featured
         featured_only: true
     design:
       view: citation
