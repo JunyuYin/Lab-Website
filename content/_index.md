@@ -55,9 +55,10 @@ sections:
         {{% cta cta_link="./publication/" cta_text="See More Publications →" %}}
       count: 5
       filters:
-        tags:
-          - Featured
+        folders:
+          - publication
         featured_only: true
+        publication_type: 'article-journal'
     design:
       view: citation
       columns: '1'
