@@ -58,11 +58,12 @@ sections:
         featured_only: true
         publication_type: 'article-journal'
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./publication/" cta_text="See More Publications →" %}}
     design:
       view: citation
       columns: '1'
-  
+      extra_classes: "collection-bottom-cta"
+
   - block: slider
     content:
       slides:
